@@ -11,5 +11,4 @@ func main() {
 	s2 := puppy.Barks()
 	fmt.Println(s1)
 	fmt.Println(s2)
-
 }
